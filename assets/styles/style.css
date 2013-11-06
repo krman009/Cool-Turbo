@@ -3,6 +3,7 @@
     background: #eee;
     width: 100%;
     max-width: 60em;
+    margin: 0 auto !important;
   }
   .logo {
     font: bolder 4em 'Source Code Pro', sans-serif;
