@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+@import url(http://fonts.googleapis.com/css?family=Nunito);
 
 body {
   background: #eee;
@@ -8,8 +8,7 @@ body {
 }
 
 .logo {
-  font: bolder 4em 'Source Code Pro', sans-serif;
-  letter-spacing: -0.07em;
+  font: bolder 4em 'Nunito', sans-serif;
   color: hotpink;
   -webkit-animation: shadow 1.5s ease-in-out infinite;
      -moz-animation: shadow 1.5s ease-in-out infinite;
