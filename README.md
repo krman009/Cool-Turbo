@@ -5,6 +5,6 @@ Cool-Turbo
 
 Would be something cool here.
 
-### LICENSE
+## LICENSE
 
 MIT (c) Kaushalya Mandaliya
