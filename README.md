@@ -1,9 +1,7 @@
-Cool-Turbo
+[Cool-Turbo](http://krman009.github.io/Cool-Turbo/ "Website")
 ==========
 
-\>\> [Cool-Turbo](http://krman009.github.io/Cool-Turbo/ "Website")
-
-Would be something cool here.
+Might be something **Cool** here.
 
 ## LICENSE
 
