@@ -5,6 +5,6 @@ Might be something **Cool** Here.
 
 ![COOLTURBO](http://cdn.memegenerator.net/instances/500x/43688293.jpg)
 
-## LICENSE
+## [LICENSE](https://github.com/krman009/Cool-Turbo/blob/gh-pages/LICENSE)
 
 MIT (c) Kaushalya Mandaliya
