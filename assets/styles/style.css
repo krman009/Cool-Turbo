@@ -30,3 +30,18 @@ body {
     text-shadow: 0.03em 0.03em white, 0.06em 0.06em rgba(255, 105, 180, 0.5);
   }
 }
+
+.highlight {
+  font-family: 'Nunito', sans-serif;
+  font-style: italic;
+  text-shadow: 0.1em 0.1em #ddd, 0.2em 0.2em #ccc;
+  font-size: 2.5em;
+}
+
+.highlight:before {
+  content: "(";
+}
+
+.highlight:after {
+  content: ")";
+}
