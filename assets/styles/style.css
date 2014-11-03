@@ -6,6 +6,7 @@ body {
 }
 
 .logo {
+  display: inline-block;
   font: bolder 4em 'Nunito', sans-serif;
   color: hotpink;
   -webkit-animation: shadow 1.5s ease-in-out infinite;
